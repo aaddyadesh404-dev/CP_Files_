@@ -29,5 +29,6 @@ int main(void)
         cout<<proj<<endl;
 
     }
+    return 0;
 }
 // O(T*K)  ka zhed hata diya
